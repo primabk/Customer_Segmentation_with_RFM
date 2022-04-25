@@ -39,7 +39,7 @@
 
 # Result
 Using `K-Means` and `Agglomerative` have the same result, 3 cluster.<br>
-![alt text](https://github.com/Jomen034/Customer_Segmentation_with_RFM/blob/master/Segmentation%20with%20K-Means.png "Clustering with K-Means")
+![alt text](https://github.com/primabk/Customer_Segmentation_with_RFM/blob/main/Segmentation%20with%20K-Means.png)
 
 # Summary
 1. With `K-Means` we get the optimal number of clusters are 3, and means to be there will be 3 segmentations from the data. I called this segementation as below:
